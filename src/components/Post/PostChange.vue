@@ -14,7 +14,7 @@
         data() {
             return {
                 post: {
-                    title: '',
+                    title: 'dfs',
                     body: '',
                 }
             }
